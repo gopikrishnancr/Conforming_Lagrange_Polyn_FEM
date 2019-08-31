@@ -1,5 +1,5 @@
 # Conforming_Lagrange_Polyn_FEM
-This code is intended to perfomrm conforming Lagrange Finite Element Method for Elliptic PDES of the form
+This code is intended to perform conforming Lagrange Finite Element Method for Elliptic PDES of the form
 
      - mu div(grad(u)) + alpha u  = f   in  \Omega,             
                   (u_x, u_y). n = u_N  on  \partial\Omega_N,   
